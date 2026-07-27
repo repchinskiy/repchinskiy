@@ -14,11 +14,6 @@
 ## Skills
 
 <p align="center">
-  <a href="https://openai.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" height="50" /></a>
-  <a href="https://www.perplexity.ai/"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/perplexity-color.svg" alt="Perplexity" height="50" /></a>
-  <a href="https://claude.ai/"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" height="50" /></a>
-  <a href="https://www.anthropic.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anthropic/default.svg" alt="Anthropic" height="50" /></a>
-  <a href="https://gemini.google.com/"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" height="50" /></a>
   <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" height="50" /></a>
   <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>
@@ -36,6 +31,7 @@
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50" /></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" height="50" /></a>
   <a href="https://telegram.org/"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="50" /></a>
+    <a href="https://openai.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" height="50" /></a>
 </p>
 
 ## GitHub Stats
