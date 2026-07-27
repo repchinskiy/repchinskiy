@@ -14,52 +14,28 @@
 ## Skills
 
 <p align="center">
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" height="50" />
-</a>
-<a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" />
-</a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.sqlite.org/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/sqlite" alt="SQLite" height="50" />
-</a>
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
-<!-- PyCharm (JetBrains IDE для Python) -->
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50" />
-</a>
-<!-- IntelliJ IDEA -->
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" height="50" />
-</a>
-<a href="https://telegram.org/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="50" />
-</a>
-<a href="https://openai.com/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" height="50" />
-</a>
-<a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/perplexity-color.svg" alt="Perplexity" height="50" />
-</a>
-<a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" height="50" />
-</a>
-<a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anthropic/default.svg" alt="Anthropic" height="50" />
-</a>
-<a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer">
-  <img style="margin: 10px" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" height="50" />
-</a>
+  <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" height="50" /></a>
+  <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>
+  <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+  <a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
+  <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" height="50" /></a>
+  <a href="https://redis.io/"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+  <a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+  <a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+  <a href="https://cloud.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" height="50" /></a>
+  <a href="https://telegram.org/"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="50" /></a>
+  <a href="https://openai.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" height="50" /></a>
+  <a href="https://www.perplexity.ai/"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/perplexity-color.svg" alt="Perplexity" height="50" /></a>
+  <a href="https://claude.ai/"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" height="50" /></a>
+  <a href="https://www.anthropic.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anthropic/default.svg" alt="Anthropic" height="50" /></a>
+  <a href="https://gemini.google.com/"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" height="50" /></a>
 </p>
 
 ## GitHub Stats
