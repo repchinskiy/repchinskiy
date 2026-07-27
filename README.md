@@ -1,17 +1,17 @@
-## Backend Engineer · Python & Java
+## ⚙️ Backend Engineer · Python & Java
 
 <div style="margin: 0 auto; width: fit-content;">
   <img src="https://raw.githubusercontent.com/repchinskiy/cryptologo/refs/heads/main/contacts.png" alt="Profile banner" />
 </div>
 
-## About me
+## 👨‍💻 About me
 
 - Backend engineer with solid experience building high-load, real-time systems.
 - Proficient in Java, Python, REST/WebSocket APIs and microservices.
 - Comfortable with Docker, Git, Linux/VPS, cloud infrastructure and AI integration.
 - Focused on performance, reliability and clean system design.
 
-## Skills
+## 📄 Skills
 
 <table>
   <tr>
@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -51,7 +51,7 @@
   </tr>
 </table>
 
-## Selected Projects
+## 🔭  Selected Projects
 
 - **Crypto HFT Arbitrage Bot**  
   High-frequency arbitrage engine across multiple centralized exchanges (Python, asyncio, WebSockets, PostgreSQL).
@@ -66,9 +66,9 @@
   across EVM and non‑EVM L1/L2 networks (Python, Web3, FastAPI, GCP). Includes proxy rotation, session management,
   Telegram notifications and failure‑resistant retry logic.
 
-## Connect with me
+## 📫 How to reach me
 
-Open to remote backend / automation / AI integration roles and freelance projects.
+👋 Open to remote backend / automation / AI integration roles and freelance projects.
 
 <table align="center">
   <tr align="center">
