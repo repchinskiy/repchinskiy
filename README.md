@@ -44,13 +44,13 @@
 ## Selected Projects
 
 - **Crypto HFT Arbitrage Bot**  
-  High-frequency arbitrage engine across multiple exchanges (Python, asyncio, websockets, PostgreSQL). Sub-100ms market data latency, custom risk controls.
+  High-frequency arbitrage engine across multiple centralized exchanges (Python, asyncio, WebSockets, PostgreSQL). Designed for sub-100 ms market data latency, automatic spread detection and exchange‑specific risk controls.
 
-- **Real-time Market Data Pipeline**  
-  Low-latency ETL for crypto/FX feeds (Java, gRPC, Redis, Docker). Built for multi-tenant analytics dashboards and alerting.
+- **Real-time Market Data & Trading Backend**  
+  Low-latency Java backend for a centralized spot/futures exchange: accounts, balances, order lifecycle and market data feeds (Java, gRPC, Redis, Docker). Powers multi-tenant analytics and alerting on top of continuous tick/ohlc streams.
 
-- **Web Scraping & Monitoring Toolkit**  
-  Playwright-based scraping framework with alerting, proxy rotation and Telegram notifications (Python, FastAPI, GCP).
+- **Web3 Automation & Monitoring Toolkit**  
+  Python/Playwright framework that automates Web3 airdrops/retrohunting flows and on‑chain/off‑chain data collection across EVM and non‑EVM L1/L2 networks (Python, Web3, FastAPI, GCP). Includes proxy rotation, session management, Telegram notifications and failure‑resistant retry logic.
 
 ## Connect with me
 
