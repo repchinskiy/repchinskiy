@@ -14,24 +14,60 @@
 ## Skills
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" height="50" /></a>
-  <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>
-  <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
-  <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" height="50" /></a>
-  <a href="https://redis.io/"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-  <a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-  <a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-  <a href="https://cloud.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50" /></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" height="50" /></a>
-  <a href="https://telegram.org/"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="50" /></a>
-    <a href="https://openai.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" height="50" /></a>
+  <a href="https://www.python.org/">
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="50" />
+  </a>
+  <a href="https://playwright.dev/">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" />
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50" />
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" width="50" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="50" />
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" width="50" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="50" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="50" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="50" />
+  </a>
+  <a href="https://cloud.google.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" width="50" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="50" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="50" />
+  </a>
+  <a href="https://telegram.org/">
+    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="50" />
+  </a>
+  <a href="https://openai.com/">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" width="50" />
+  </a>
 </p>
 
 ## GitHub Stats
