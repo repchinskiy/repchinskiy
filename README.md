@@ -1,4 +1,4 @@
-## ⚙️ Backend Engineer · Python & Java
+## 🛠️ Backend Engineer · Python & Java
 
 <div style="margin: 0 auto; width: fit-content;">
   <img src="https://raw.githubusercontent.com/repchinskiy/cryptologo/refs/heads/main/contacts.png" alt="Profile banner" />
@@ -11,7 +11,7 @@
 - Comfortable with Docker, Git, Linux/VPS, cloud infrastructure and AI integration.
 - Focused on performance, reliability and clean system design.
 
-## 📄 Skills
+## 🧩 Skills
 
 <table>
   <tr>
