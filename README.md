@@ -94,4 +94,4 @@
 </table>
 
 ----
-<p align="center"><sub><strong>built by bizon</strong></sub></p>
+<p align="center"><sub><strong>🚀 built by bizon</strong></sub></p>
