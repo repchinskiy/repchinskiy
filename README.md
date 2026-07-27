@@ -92,5 +92,6 @@ Open to remote backend / automation / AI integration roles and freelance project
 </td>
   </tr>
 </table>
+
 ----
 <p align="center"><sub><strong>built by bizon</strong></sub></p>
