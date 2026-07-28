@@ -6,10 +6,45 @@
 
 ## 👨‍💻 About me
 
-- Backend engineer with solid experience building high-load, real-time systems.
-- Proficient in Java, Python, REST/WebSocket APIs and microservices.
-- Comfortable with Docker, Git, Linux/VPS, cloud infrastructure and AI integration.
-- Focused on performance, reliability and clean system design.
+<div style="
+  min-height: 400px;
+  padding: 32px;
+  display: flex;
+  align-items: center;
+  background-image:
+    linear-gradient(to right, rgba(5, 10, 25, 0.82) 0%, rgba(5, 10, 25, 0.62) 38%, rgba(5, 10, 25, 0.18) 65%, rgba(5, 10, 25, 0.05) 100%),
+    url('https://raw.githubusercontent.com/repchinskiy/cryptologo/refs/heads/main/contacts.png');
+  background-size: cover;
+  background-position: right center;
+  background-repeat: no-repeat;
+  color: #f5f7fb;
+  box-sizing: border-box;
+">
+  <div style="
+    max-width: 520px;
+    padding: 24px 28px;
+    background: rgba(7, 14, 30, 0.35);
+    border-left: 3px solid rgba(120, 200, 255, 0.75);
+    border-radius: 12px;
+    backdrop-filter: blur(3px);
+  ">
+    <div style="
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 18px;
+      line-height: 1.2;
+    ">
+      Backend Engineer · Python & Java
+    </div>
+      <div style="font-size: 14px; line-height: 1.7; text-shadow: 0 2px 6px rgba(0,0,0,0.45);">
+        - Solid experience building high-load, real-time systems.<br>
+        - Proficient in Java, Python, REST/WebSocket APIs and microservices.<br>
+        - Comfortable with Docker, Git, Linux/VPS, and cloud infrastructure.<br>
+        - Experienced in AI integration and automation.<br>
+        - Focused on performance, reliability and clean system design.
+      </div>
+  </div>
+</div>
 
 ## 🧩 Skills
 
