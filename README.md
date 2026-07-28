@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-<table align="left">
+<table align="center">
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=repchinskiy&theme=github_dark" />
