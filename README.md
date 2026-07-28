@@ -13,34 +13,34 @@
 
 ## 🧩 Skills
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td><a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" /></a></td>
-    <td><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="40" /></a></td>
-    <td><a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" /></a></td>
-    <td><a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="40" /></a></td>
-    <td><a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" width="40" /></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" /></a></td>
-    <td><a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" /></a></td>
-    <td><a href="https://www.sqlite.org/"><img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="40" /></a></td>
-    <td><a href="https://redis.io/"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" width="40" /></a></td>
+    <td><a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="54.5" /></a></td>
+    <td><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="54.5" /></a></td>
+    <td><a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="54.5" /></a></td>
+    <td><a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="54.5" /></a></td>
+    <td><a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" width="54.5" /></a></td>
+    <td><a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="54.5" /></a></td>
+    <td><a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="54.5" /></a></td>
+    <td><a href="https://www.sqlite.org/"><img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="54.5" /></a></td>
+    <td><a href="https://redis.io/"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" width="54.5" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" /></a></td>
-    <td><a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="40" /></a></td>
-    <td><a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="40" /></a></td>
-    <td><a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" /></a></td>
-    <td><a href="https://cloud.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" width="40" /></a></td>
-    <td><a href="https://www.jetbrains.com/pycharm/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="40" /></a></td>
-    <td><a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="40" /></a></td>
-    <td><a href="https://telegram.org/"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="40" /></a></td>
-    <td><a href="https://openai.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" width="40" /></a></td>
+    <td><a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="54.5" /></a></td>
+    <td><a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="54.5" /></a></td>
+    <td><a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="54.5" /></a></td>
+    <td><a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="54.5" /></a></td>
+    <td><a href="https://cloud.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" width="54.5" /></a></td>
+    <td><a href="https://www.jetbrains.com/pycharm/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="54.5" /></a></td>
+    <td><a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="54.5" /></a></td>
+    <td><a href="https://telegram.org/"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="54.5" /></a></td>
+    <td><a href="https://openai.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" width="54.5" /></a></td>
   </tr>
 </table>
 
 ## 📊 GitHub Stats
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=repchinskiy&theme=github_dark" />
